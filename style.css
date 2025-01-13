@@ -1,0 +1,21 @@
+p{
+    background-color: burlywood;
+}
+.demo{
+    text-shadow: 0cap;
+    background-color: bisque;
+    width: 100px;
+}
+
+.parent{
+    background-color: red;
+    width: 50%;
+}
+
+.child{
+    background-color: blue;
+    width: 80%;
+}
+.center{
+    text-align: center;
+}
